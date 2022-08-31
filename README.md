@@ -1,2 +1,2 @@
 # TIL
-Today I learnt
+Random useful things I've learnt. 
