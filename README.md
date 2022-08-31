@@ -4,12 +4,20 @@
 A collection of random useful things I've learnt
 
 
-_0 TILs and counting..._
+_1 TILs and counting..._
 
 ---
 
+### 1 most recent TILs
+
+- [Magnus Carlsen podcast](chess/Magnus_Carlsen_Lex_Fridman_Podcast.md) - Wed Aug 31 13:56:27 2022 +0930
+
 ### Categories
 
+- [chess](#chess)
+
+### [chess](#chess)
+- [Magnus Carlsen podcast](chess/Magnus_Carlsen_Lex_Fridman_Podcast.md)
 
 © Nick Lothian
 
