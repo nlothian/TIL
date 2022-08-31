@@ -48,7 +48,7 @@ jobs:
     - name: Build database
       run: |-
         python build_database.py
-      - name: Deploy Datasette using Vercel
+    - name: Deploy Datasette using Vercel
       env:
         NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
       run: |-
