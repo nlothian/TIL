@@ -1,7 +1,7 @@
 # TIL
 > Today I Learned
 
-A collection of random useful things I've learnt
+A collection of random useful things I've learnt. Inspired and borrowing heavily from [Simon Willison](https://til.simonwillison.net/)
 
 
 _1 TILs and counting..._
