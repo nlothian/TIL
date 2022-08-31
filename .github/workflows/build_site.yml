@@ -53,6 +53,7 @@ jobs:
         NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
       run: |-
         datasette publish vercel tils.db \
+          --token $NOW_TOKEN \
           --project nlothian-til \
           --scope nlothian \
           --metadata metadata.yaml \
