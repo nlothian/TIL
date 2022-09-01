@@ -4,7 +4,7 @@
 A collection of random useful things I've learnt. Inspired and borrowing heavily from [Simon Willison](https://til.simonwillison.net/)
 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -16,10 +16,14 @@ _2 TILs and counting..._
 ### Categories
 
 - [AI](#AI)
+- [animals](#animals)
 - [chess](#chess)
 
 ### [AI](#AI)
 - [Frame Interpolation](AI/Frame_Interpolation_Filmnet.md)
+
+### [animals](#animals)
+- [](animals/Links_to_Interesting_Animal_Sound_Datasets.md)
 
 ### [chess](#chess)
 - [Magnus Carlsen podcast](chess/Magnus_Carlsen_Lex_Fridman_Podcast.md)
