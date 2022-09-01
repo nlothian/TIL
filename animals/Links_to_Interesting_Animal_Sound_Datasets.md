@@ -1,4 +1,3 @@
-
 # Animal Sound Datasets
 
 There's a whole field of human-animal communications (or animal-animal) that seems pretty interesting. 
