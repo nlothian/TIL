@@ -4,14 +4,14 @@
 A collection of random useful things I've learnt. Inspired and borrowing heavily from [Simon Willison](https://til.simonwillison.net/)
 
 
-_3 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [Frame Interpolation](AI/Frame_Interpolation_Filmnet.md) - Wed Aug 31 21:26:17 2022 +0930
-- [Magnus Carlsen podcast](chess/Magnus_Carlsen_Lex_Fridman_Podcast.md) - Wed Aug 31 13:56:27 2022 +0930
+- [Large Language Models do Gradient Descent at runtime.](AI/Large_Language_Models_Do_Gradient_Descent.md) - Fri Mar 17 14:26:34 2023 +1030
+- [On Generative Search](AI/On_Generative_Search.md) - Fri Mar 17 14:26:34 2023 +1030
 
 ### Categories
 
@@ -21,6 +21,8 @@ _3 TILs and counting..._
 
 ### [AI](#AI)
 - [Frame Interpolation](AI/Frame_Interpolation_Filmnet.md)
+- [Large Language Models do Gradient Descent at runtime.](AI/Large_Language_Models_Do_Gradient_Descent.md)
+- [On Generative Search](AI/On_Generative_Search.md)
 
 ### [animals](#animals)
 - [Animal Sound Datasets](animals/Links_to_Interesting_Animal_Sound_Datasets.md)
